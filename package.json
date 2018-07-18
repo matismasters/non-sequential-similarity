@@ -1,7 +1,7 @@
 {
-  "name": "inflate",
+  "name": "similarto",
   "version": "1.0.0",
-  "description": "Take a csv file, and inflate its content, ending up with similar results, but bigger numbers",
+  "description": "String comparison without caring for order of letters",
   "main": "index.js",
   "private": true,
   "jest": {
