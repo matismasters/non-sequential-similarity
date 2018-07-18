@@ -4,13 +4,21 @@
   "description": "Take a csv file, and inflate its content, ending up with similar results, but bigger numbers",
   "main": "index.js",
   "private": true,
+  "jest": {
+    "collectCoverage": true,
+    "coverageReporters": [
+      "json-summary",
+      "text",
+      "lcov"
+    ]
+  },
   "babel": {
     "presets": [
       "env"
     ]
   },
   "scripts": {
-    "test": "jest",
+    "test": "jest && jest-coverage-badges",
     "build": "webpack",
     "watch": "webpack --watch"
   },
@@ -34,6 +42,7 @@
     "babel-loader": "^7.1.4",
     "fast-csv": "^2.4.1",
     "jest": "^23.1.0",
+    "jest-coverage-badges": "^1.0.0",
     "npm": "^6.1.0"
   },
   "devDependencies": {
