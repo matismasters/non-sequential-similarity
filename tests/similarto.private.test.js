@@ -1,4 +1,4 @@
-const publicSubjectModule = require('../src/similarity');
+const publicSubjectModule = require('../src/similarto');
 const subjectModule = publicSubjectModule.private;
 
 const runSimpleTest = (
