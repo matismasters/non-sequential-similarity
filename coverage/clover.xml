@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1531953836703" clover="3.2.0">
+  <project timestamp="1531953836703" name="All files">
+    <metrics statements="34" coveredstatements="34" conditionals="10" coveredconditionals="10" methods="16" coveredmethods="16" elements="60" coveredelements="60" complexity="0" loc="34" ncloc="34" packages="1" files="1" classes="1">
+      <file name="similarto.js" path="/Users/matiasverges/projects/similarto/src/similarto.js">
+        <metrics statements="34" coveredstatements="34" conditionals="10" coveredconditionals="10" methods="16" coveredmethods="16"/>
+        <line num="1" count="89" type="stmt"/>
+        <line num="2" count="72" type="stmt"/>
+        <line num="3" count="85" type="cond" truecount="2" falsecount="0"/>
+        <line num="5" count="18" type="stmt"/>
+        <line num="7" count="71" type="stmt"/>
+        <line num="9" count="1" type="stmt"/>
+        <line num="10" count="15" type="stmt"/>
+        <line num="11" count="69" type="stmt"/>
+        <line num="12" count="69" type="cond" truecount="2" falsecount="0"/>
+        <line num="13" count="69" type="stmt"/>
+        <line num="14" count="69" type="stmt"/>
+        <line num="17" count="1" type="stmt"/>
+        <line num="18" count="12" type="stmt"/>
+        <line num="19" count="22" type="stmt"/>
+        <line num="23" count="1" type="stmt"/>
+        <line num="24" count="45" type="cond" truecount="2" falsecount="0"/>
+        <line num="26" count="1" type="stmt"/>
+        <line num="27" count="29" type="stmt"/>
+        <line num="29" count="1" type="stmt"/>
+        <line num="30" count="9" type="stmt"/>
+        <line num="32" count="38" type="cond" truecount="2" falsecount="0"/>
+        <line num="33" count="26" type="stmt"/>
+        <line num="38" count="12" type="stmt"/>
+        <line num="43" count="38" type="stmt"/>
+        <line num="46" count="1" type="stmt"/>
+        <line num="47" count="9" type="stmt"/>
+        <line num="48" count="9" type="stmt"/>
+        <line num="49" count="24" type="stmt"/>
+        <line num="54" count="1" type="stmt"/>
+        <line num="55" count="5" type="stmt"/>
+        <line num="56" count="5" type="stmt"/>
+        <line num="58" count="5" type="stmt"/>
+        <line num="60" count="5" type="stmt"/>
+        <line num="63" count="1" type="stmt"/>
+      </file>
+    </metrics>
+  </project>
+</coverage>
