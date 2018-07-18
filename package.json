@@ -11,7 +11,8 @@
   },
   "scripts": {
     "test": "jest",
-    "build": "webpack"
+    "build": "webpack",
+    "watch": "webpack --watch"
   },
   "repository": {
     "type": "git",
