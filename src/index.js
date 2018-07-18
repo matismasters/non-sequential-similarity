@@ -1,1 +1,1 @@
-var sanitizer = require('./similarity')
+var sanitizer = require('./similarity');

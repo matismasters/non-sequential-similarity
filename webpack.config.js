@@ -5,7 +5,7 @@ module.exports = {
   mode: 'production',
   output: {
     filename: 'index.min.js',
-    path: path.resolve(__dirname, 'dist')
+    path: path.resolve(__dirname, 'dist'),
   },
   module: {
     rules: [
@@ -15,9 +15,9 @@ module.exports = {
         use: {
           loader: 'babel-loader',
           options: {
-            presets: ['env']
-          }
-        }
-      }
-    ]
-  }}
+            presets: ['env'],
+          },
+        },
+      },
+    ],
+  }, };
