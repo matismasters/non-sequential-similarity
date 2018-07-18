@@ -1,10 +1,10 @@
 const path = require('path');
 
 module.exports = {
-  entry: './src/index.js',
+  entry: './src/similarto.js',
   mode: 'production',
   output: {
-    filename: 'index.min.js',
+    filename: 'similarto.min.js',
     path: path.resolve(__dirname, 'dist'),
   },
   module: {

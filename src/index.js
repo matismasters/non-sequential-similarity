@@ -1,1 +1,0 @@
-var sanitizer = require('./similarto');
