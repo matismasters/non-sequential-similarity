@@ -1,5 +1,5 @@
 {
-  "name": "similarto",
+  "name": "similar-to",
   "version": "1.0.0",
   "description": "String comparison without caring for order of letters",
   "main": "index.js",
@@ -34,7 +34,7 @@
     "string compare"
   ],
   "author": "Matis",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/matismasters/inflate-js/issues"
   },
