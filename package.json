@@ -40,13 +40,13 @@
   },
   "homepage": "https://github.com/matismasters/inflate-js#readme",
   "dependencies": {
-    "babel-core": "^6.26.3",
-    "babel-loader": "^7.1.4",
-    "fast-csv": "^2.4.1",
-    "jest": "^23.1.0",
     "npm": "^6.1.0"
   },
   "devDependencies": {
+    "fast-csv": "^2.4.1",
+    "jest": "^23.1.0",
+    "babel-core": "^6.26.3",
+    "babel-loader": "^7.1.4",
     "babel-cli": "^6.26.0",
     "babel-preset-env": "^1.7.0",
     "jest-coverage-badges": "matismasters/jest-coverage-badges",
