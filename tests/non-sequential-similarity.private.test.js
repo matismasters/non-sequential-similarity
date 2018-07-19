@@ -1,4 +1,4 @@
-const publicSubjectModule = require('../src/similarto');
+const publicSubjectModule = require('../src/non-sequential-similarity');
 const subjectModule = publicSubjectModule.private;
 
 const runSimpleTest = (

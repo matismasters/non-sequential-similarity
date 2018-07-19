@@ -1,10 +1,10 @@
 const path = require('path');
 
 module.exports = {
-  entry: './src/similarto.js',
+  entry: './src/non-sequential-similarity.js',
   mode: 'production',
   output: {
-    filename: 'similarto.min.js',
+    filename: 'non-sequential-similarity.min.js',
     path: path.resolve(__dirname, 'dist'),
   },
   module: {

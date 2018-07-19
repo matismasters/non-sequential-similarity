@@ -2,7 +2,7 @@
 <coverage generated="1531953836703" clover="3.2.0">
   <project timestamp="1531953836703" name="All files">
     <metrics statements="34" coveredstatements="34" conditionals="10" coveredconditionals="10" methods="16" coveredmethods="16" elements="60" coveredelements="60" complexity="0" loc="34" ncloc="34" packages="1" files="1" classes="1">
-      <file name="similarto.js" path="/Users/matiasverges/projects/similarto/src/similarto.js">
+      <file name="non-sequential-similarity.js" path="/Users/matiasverges/projects/non-sequential-similarity/src/non-sequential-similarity.js">
         <metrics statements="34" coveredstatements="34" conditionals="10" coveredconditionals="10" methods="16" coveredmethods="16"/>
         <line num="1" count="89" type="stmt"/>
         <line num="2" count="72" type="stmt"/>

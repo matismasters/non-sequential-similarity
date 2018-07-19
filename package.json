@@ -1,6 +1,6 @@
 {
-  "name": "similar-to",
-  "version": "1.0.0",
+  "name": "non-sequential-similarity",
+  "version": "1.1.0",
   "description": "String comparison without caring for order of letters",
   "main": "index.js",
   "jest": {

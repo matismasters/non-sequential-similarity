@@ -1,3 +1,3 @@
 {"total": {"lines":{"total":34,"covered":34,"skipped":0,"pct":100},"statements":{"total":39,"covered":39,"skipped":0,"pct":100},"functions":{"total":16,"covered":16,"skipped":0,"pct":100},"branches":{"total":10,"covered":10,"skipped":0,"pct":100}}
-,"/Users/matiasverges/projects/similarto/src/similarto.js": {"lines":{"total":34,"covered":34,"skipped":0,"pct":100},"functions":{"total":16,"covered":16,"skipped":0,"pct":100},"statements":{"total":39,"covered":39,"skipped":0,"pct":100},"branches":{"total":10,"covered":10,"skipped":0,"pct":100}}
+,"/Users/matiasverges/projects/similarto/src/non-sequential-similarity.js": {"lines":{"total":34,"covered":34,"skipped":0,"pct":100},"functions":{"total":16,"covered":16,"skipped":0,"pct":100},"statements":{"total":39,"covered":39,"skipped":0,"pct":100},"branches":{"total":10,"covered":10,"skipped":0,"pct":100}}
 }
