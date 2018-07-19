@@ -1,29 +1,31 @@
-[![Build Status](https://travis-ci.com/matismasters/similarto.svg?branch=master)](https://travis-ci.com/matismasters/similarto)
+[![Build Status](https://travis-ci.com/matismasters/non-sequential-similarity.svg?branch=master)](https://travis-ci.com/matismasters/non-sequential-similarity)
 ![Coverage Branches](./coverage/badge-branches.svg)
 ![Coverage Functions](./coverage/badge-functions.svg)
 ![Coverage Lines](./coverage/badge-lines.svg)
 ![Coverage statements](./coverage/badge-statements.svg)
 
-# similarto
+# non-sequential-similarity
 
 NPM package to check similarity among strings by counting letters without caring about the order
 
 ## Install
 
 ```
-npm install similarto
+npm install non-sequential-similarity
 ```
 
 ## Usage
 
 ```
   // With CommonJS packages
-  const SimilarTo = require('similarto');
+  const NonSequentialSimilarity = require('non-sequential-similarity');
 
   // With ES6
-  import SimilarTo from 'similarto'
+  import NonSequentialSimilarity from 'non-sequential-similarity'
 
-  console.log(SimilarTo.similarityRate('another', 'anthoer')) // ==> 0
+  console.log(
+    NonSequentialSimilarity.similarityRate('another', 'anthoer')
+  ) // ==> 0
 ```
 
 ## Results example
