@@ -3,7 +3,6 @@
   "version": "1.0.0",
   "description": "String comparison without caring for order of letters",
   "main": "index.js",
-  "private": true,
   "jest": {
     "collectCoverage": true,
     "coverageReporters": [
@@ -28,8 +27,11 @@
   },
   "keywords": [
     "javascript",
-    "csv",
-    "parsing"
+    "strings",
+    "comparison",
+    "similarity",
+    "compare",
+    "string compare"
   ],
   "author": "Matis",
   "license": "ISC",
