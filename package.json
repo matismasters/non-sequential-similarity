@@ -1,8 +1,8 @@
 {
   "name": "non-sequential-similarity",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "description": "String comparison without caring for order of letters",
-  "main": "index.js",
+  "main": "src/non-sequential-similarity.js",
   "jest": {
     "collectCoverage": true,
     "coverageReporters": [
